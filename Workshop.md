@@ -38,7 +38,6 @@ Implemente um sistema de autenticação seguro para que os estudantes, professor
 
 Crie perfis de usuário distintos para estudantes, professores e administradores, com funcionalidades específicas para cada grupo. Por exemplo, os professores podem criar cursos e os administradores podem gerenciar a plataforma.
 }
-
 {
     Passo 6: Testes e Depuração
 
